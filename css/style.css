@@ -1,0 +1,50 @@
+.banniere{
+    border: 5px solid darkblue;
+    height: 200px;
+    width: 800px;
+    margin-left: auto;
+    margin-right: auto;
+}
+.banI{
+    height: 200px;
+    width: 800px;
+}
+body{
+    background-image: radial-gradient(#CCDAE0 ,#EDF2F4);
+}
+header{
+    text-align: center;
+}
+h1{
+    color: #EF233C;
+    font-size: 3.5em;
+    font-weight:bold;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+h3{
+    color: #2B2D42;
+    font-size: 2em;
+    font-weight:bold;
+    text-decoration: black dashed underline ;
+}
+img{
+    height: 100px;
+    width: 200px;
+}
+div{
+    height: 100px;
+    width: 200px;
+    border: 2px solid  #8D99AE ;
+    margin-left: auto;
+    margin-right: auto;
+}
+article{
+    border: 1px solid  black;
+}
+footer{
+    text-align: right;
+}
+ul{
+    list-style:none;
+}
+li
