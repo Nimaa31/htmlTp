@@ -21,6 +21,13 @@ h1{
     font-weight:bold;
     font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
 }
+#monAncre{
+    color: #2B2D42;
+    font-size: 2em;
+    font-weight:bold;
+    text-decoration: black dashed underline ;
+}
+
 h3{
     color: #2B2D42;
     font-size: 2em;
@@ -47,4 +54,12 @@ footer{
 ul{
     list-style:none;
 }
-li
+a:visited{
+    color: grey;
+}
+a:link{
+    color: #D90429 ;
+}
+a:hover{
+    color: #2B2D42;
+}
